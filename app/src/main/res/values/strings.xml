@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherDemo</string>
+    <string name="weather_token">CWB-100553FE-631D-4CDA-900D-F6F1476706A9</string>
+    <string name="text_welcome_back">歡迎回來</string>
+</resources>
